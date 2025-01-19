@@ -42,6 +42,9 @@ The script defines a list of IP addresses to perform traceroute. It then uses a 
    - Each IP address in the list will have a traceroute performed in a new command prompt window.
    - The results of each traceroute session will be logged to a file named `TracerouteLog_<IP>.txt` in the script's directory.
 
+## Demo
+https://youtu.be/DkBbCKkOeJY
+
 ## Script
 
 ```powershell
